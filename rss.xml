@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[drfrank]]></title>
-        <description><![CDATA[drfrank]]></description>
+        <title><![CDATA[A Slideshow Experiment]]></title>
+        <description><![CDATA[A Slideshow Experiment]]></description>
         <link>https://thegrid.ai/drfrank/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 20:51:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 13:52:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/drfrank/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/89fd46ba-51c0-406f-ba7d-b2a141ffcbc2.jpg">]]></description>
             <link>https://thegrid.ai/drfrank/705aef03-04ab-4648-b232-50c3b46f8cf7/index.html</link>
             <guid isPermaLink="false">705aef03-04ab-4648-b232-50c3b46f8cf7</guid>
-            <pubDate>Fri, 29 Apr 2016 20:49:22 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2016 13:52:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
